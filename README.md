@@ -1,4 +1,5 @@
 # Breast Cancer Detection
+#Durgesh Bhardwaj
 Breast Cancer Detection Using Machine Learning
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
