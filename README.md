@@ -70,16 +70,7 @@ Now while its difficult to figure out for physicians  by seeing only images of x
 
 # Project Description
 
-The Project is Inspired by the Original Publication of...
 
-1)Doç. Dr. Ahmet MERT
-Mühendislik ve Doğa Bilimleri Fakültesi > Mekatronik Mühendisliği Bölümü
-
-2)Dr. Erdem Bilgili
-Piri Reis University
-
-3)Dr. Aydin Akan
-Izmir Katip Celebi University, Izmir, Turkey
 
 The Projects Features Detection of Breast Cancer Using Machine Learning.
 It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
@@ -106,3 +97,7 @@ Finally thanks for having me with you for quiet a lot of your precious time hope
 Also if you enjoyed this and you are not a sadist then dont forget to leave a star, you know those star and Green square really satisfy me :)
 
 Until we Meet Next HAPPY LEARNING ❤️.
+##Any query:-
+mail me
+durgeshbhardwaj5100@gmail.com
+##Durgesh Bhardwaj
